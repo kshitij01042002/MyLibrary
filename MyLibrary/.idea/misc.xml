@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/91932/Desktop/MyLibrary/app/src/main/res/drawable/buttons.xml" value="0.21197916666666666" />
+        <entry key="..\:/Users/91932/Desktop/MyLibrary/app/src/main/res/layout/activity_add_book.xml" value="0.2" />
+        <entry key="..\:/Users/91932/Desktop/MyLibrary/app/src/main/res/layout/activity_find_book_by_name.xml" value="0.1765625" />
+        <entry key="..\:/Users/91932/Desktop/MyLibrary/app/src/main/res/layout/activity_find_book_by_number.xml" value="0.16822916666666668" />
+        <entry key="..\:/Users/91932/Desktop/MyLibrary/app/src/main/res/layout/activity_forget_password.xml" value="0.264" />
+        <entry key="..\:/Users/91932/Desktop/MyLibrary/app/src/main/res/layout/activity_issue_book.xml" value="0.2" />
+        <entry key="..\:/Users/91932/Desktop/MyLibrary/app/src/main/res/layout/activity_librarian_login.xml" value="0.152" />
+        <entry key="..\:/Users/91932/Desktop/MyLibrary/app/src/main/res/layout/activity_librarian_page.xml" value="0.264" />
+        <entry key="..\:/Users/91932/Desktop/MyLibrary/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/91932/Desktop/MyLibrary/app/src/main/res/layout/activity_return_book.xml" value="0.264" />
+        <entry key="..\:/Users/91932/Desktop/MyLibrary/app/src/main/res/layout/activity_splash.xml" value="0.19635416666666666" />
+        <entry key="..\:/Users/91932/Desktop/MyLibrary/app/src/main/res/layout/activity_student_login.xml" value="0.2" />
+        <entry key="..\:/Users/91932/Desktop/MyLibrary/app/src/main/res/layout/activity_student_page.xml" value="0.264" />
+        <entry key="..\:/Users/91932/Desktop/MyLibrary/app/src/main/res/layout/activity_student_registration.xml" value="0.264" />
+        <entry key="..\:/Users/91932/Desktop/MyLibrary/app/src/main/res/layout/items.xml" value="0.13333333333333333" />
+        <entry key="..\:/Users/91932/Desktop/MyLibrary/app/src/main/res/layout/spinner.xml" value="0.15104166666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.mylibrary">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/tt"
+        android:label="Library Management"
+        android:roundIcon="@drawable/buttons"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.MyLibrary">
+        <activity
+            android:name=".ForgetPassword"
+            android:exported="false" />
+        <activity
+            android:name=".ReturnBook"
+            android:exported="false" />
+        <activity
+            android:name=".FindBookByName"
+            android:exported="false" />
+        <activity
+            android:name=".FindBookByNumber"
+            android:exported="false" />
+        <activity
+            android:name=".IssueBook"
+            android:exported="false" />
+        <activity
+            android:name=".AddBook"
+            android:exported="false" />
+        <activity
+            android:name=".StudentRegistration"
+            android:exported="false" />
+        <activity
+            android:name=".StudentPage"
+            android:exported="false" />
+        <activity
+            android:name=".LibrarianPage"
+            android:exported="false" />
+        <activity
+            android:name=".LibrarianLogin"
+            android:exported="false" />
+        <activity
+            android:name=".StudentLogin"
+            android:exported="false" />
+        <activity
+            android:name=".SplashActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".MainActivity"
+            android:exported="true" />
+    </application>
+
+</manifest>
